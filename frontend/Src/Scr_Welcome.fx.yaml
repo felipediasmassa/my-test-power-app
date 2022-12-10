@@ -1,0 +1,15 @@
+Scr_Welcome As screen:
+
+    Label1 As label:
+        Text: ="Welcome Screen"
+        X: =40
+        Y: =40
+        ZIndex: =1
+
+    Button1 As button:
+        OnSelect: =Navigate(Scr_Content)
+        Text: ="To Content"
+        X: =35
+        Y: =102
+        ZIndex: =2
+

@@ -1,0 +1,9 @@
+Scr_Content As screen:
+
+    Icon1 As icon.ArrowLeft:
+        Icon: =Icon.ArrowLeft
+        OnSelect: =Navigate(Scr_Welcome)
+        X: =40
+        Y: =40
+        ZIndex: =1
+
