@@ -12,5 +12,12 @@ Scr_Content As screen:
         OnSelect: =Navigate(Scr_Welcome)
         X: =40
         Y: =40
-        ZIndex: =1
+        ZIndex: =2
+
+    Icon3 As icon.ArrowLeft:
+        Icon: =Icon.ArrowLeft
+        OnSelect: =Navigate(Scr_Welcome)
+        X: =100
+        Y: =100
+        ZIndex: =3
 
