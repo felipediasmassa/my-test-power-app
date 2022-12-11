@@ -14,3 +14,10 @@ Scr_Content As screen:
         Y: =40
         ZIndex: =1
 
+    Icon_CreatedInMain As icon.ArrowLeft:
+        Icon: =Icon.ArrowLeft
+        OnSelect: =Navigate(Scr_Welcome)
+        X: =627
+        Y: =345
+        ZIndex: =2
+
