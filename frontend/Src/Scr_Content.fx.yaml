@@ -38,7 +38,6 @@ Scr_Content As screen:
     IconCreatedInCode As icon.ArrowLeft:
         Icon: =Icon.ArrowLeft
         OnSelect: =Navigate(Scr_Welcome)
-        X: =0
         Y: =704
         ZIndex: =6
 
