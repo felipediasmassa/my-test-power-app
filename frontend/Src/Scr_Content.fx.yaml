@@ -41,3 +41,9 @@ Scr_Content As screen:
         Y: =704
         ZIndex: =6
 
+    IconCreatedInApp_Dev As icon.ArrowLeft:
+        Icon: =Icon.ArrowLeft
+        OnSelect: =Navigate(Scr_Welcome)
+        X: =1302
+        ZIndex: =7
+
