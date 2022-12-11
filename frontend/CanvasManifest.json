@@ -95,11 +95,11 @@
     "Id": "9610ce70-5e3e-4f96-85bf-ea472d7c6509",
     "InstrumentationKey": "",
     "LocalDatabaseReferences": "{}",
-    "Name": "My-Test-Power-App [Dev]",
+    "Name": "My-Test-Power-App [Dev-Feature]",
     "OriginatingVersion": "1.326"
   },
   "PublishInfo": {
-    "AppName": "My-Test-Power-App [Dev]",
+    "AppName": "My-Test-Power-App [Dev-Feature]",
     "BackgroundColor": "RGBA(0,176,240,1)",
     "IconColor": "RGBA(255,255,255,1)",
     "IconName": "Edit",
