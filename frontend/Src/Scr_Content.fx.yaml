@@ -21,3 +21,24 @@ Scr_Content As screen:
         Y: =100
         ZIndex: =3
 
+    IconWakaWaka As icon.ArrowLeft:
+        Icon: =Icon.ArrowLeft
+        OnSelect: =Navigate(Scr_Welcome)
+        X: =150
+        Y: =150
+        ZIndex: =4
+
+    IconCreatedInApp As icon.ArrowLeft:
+        Icon: =Icon.ArrowLeft
+        OnSelect: =Navigate(Scr_Welcome)
+        X: =1302
+        Y: =704
+        ZIndex: =5
+
+    IconCreatedInCode As icon.ArrowLeft:
+        Icon: =Icon.ArrowLeft
+        OnSelect: =Navigate(Scr_Welcome)
+        X: =0
+        Y: =704
+        ZIndex: =6
+

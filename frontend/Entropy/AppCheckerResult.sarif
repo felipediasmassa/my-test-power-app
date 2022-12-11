@@ -14,6 +14,126 @@
             {
               "logicalLocations": [
                 {
+                  "fullyQualifiedName": "Scr_Content.IconWakaWaka.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Scr_Content.IconWakaWaka.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "Scr_Content",
+                "type": "Scr_Content.IconWakaWaka"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Scr_Content.IconWakaWaka.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Scr_Content.IconWakaWaka.TabIndex",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "TabIndex",
+                "module": "Scr_Content",
+                "type": "Scr_Content.IconWakaWaka"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Scr_Content.Icon1.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Scr_Content.Icon1.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "Scr_Content",
+                "type": "Scr_Content.Icon1"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Scr_Content.Icon1.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Scr_Content.Icon1.TabIndex",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "TabIndex",
+                "module": "Scr_Content",
+                "type": "Scr_Content.Icon1"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
                   "fullyQualifiedName": "Scr_Content.Icon3.AccessibleLabel"
                 }
               ],
@@ -134,19 +254,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Scr_Content.Icon1.AccessibleLabel"
+                  "fullyQualifiedName": "Scr_Content.IconCreatedInApp.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Scr_Content.Icon1.AccessibleLabel",
+                  "fullyQualifiedName": "Scr_Content.IconCreatedInApp.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "Scr_Content",
-                "type": "Scr_Content.Icon1"
+                "type": "Scr_Content.IconCreatedInApp"
               }
             }
           ],
@@ -164,19 +284,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Scr_Content.Icon1.TabIndex"
+                  "fullyQualifiedName": "Scr_Content.IconCreatedInApp.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Scr_Content.Icon1.TabIndex",
+                  "fullyQualifiedName": "Scr_Content.IconCreatedInApp.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
                 "module": "Scr_Content",
-                "type": "Scr_Content.Icon1"
+                "type": "Scr_Content.IconCreatedInApp"
               }
             }
           ],
