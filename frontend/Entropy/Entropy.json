@@ -3,17 +3,19 @@
   "ControlUniqueGuids": {},
   "ControlUniqueIds": {
     "App": 1,
-    "Button1": 9,
-    "Icon1": 6,
-    "Icon2": 5,
-    "Icon3": 4,
-    "Label1": 8,
+    "Button1": 10,
+    "Icon1": 5,
+    "Icon2": 7,
+    "Icon3": 6,
+    "IconCreatedInApp": 11,
+    "IconWakaWaka": 4,
+    "Label1": 9,
     "Scr_Content": 3,
-    "Scr_Welcome": 7
+    "Scr_Welcome": 8
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "12/11/2022 22:18:12",
+  "HeaderLastSavedDateTimeUTC": "12/11/2022 22:26:23",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -34,8 +36,10 @@
     "App": 0,
     "Button1": 1,
     "Icon1": 2,
-    "Icon2": 4,
+    "Icon2": 5,
     "Icon3": 3,
+    "IconCreatedInApp": 5,
+    "IconWakaWaka": 4,
     "Label1": 0,
     "Scr_Content": 2,
     "Scr_Welcome": 6
@@ -44,14 +48,14 @@
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.0629862,
+    "AnalysisLoadTime": 0.113329,
     "ControlCount": {
       "button": 1,
-      "icon": 3,
+      "icon": 5,
       "label": 1,
       "screen": 2
     },
-    "DeserializationLoadTime": 0.4251736,
+    "DeserializationLoadTime": 9.0545891,
     "ErrorCount": 0
   },
   "WasLocalDatabaseReferencesEmpty": true
