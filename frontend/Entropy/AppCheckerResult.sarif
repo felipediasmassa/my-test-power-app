@@ -14,19 +14,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Scr_Content.IconCreatedInCode.AccessibleLabel"
+                  "fullyQualifiedName": "Scr_Content.Icon_CreatedInMain.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Scr_Content.IconCreatedInCode.AccessibleLabel",
+                  "fullyQualifiedName": "Scr_Content.Icon_CreatedInMain.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "Scr_Content",
-                "type": "Scr_Content.IconCreatedInCode"
+                "type": "Scr_Content.Icon_CreatedInMain"
               }
             }
           ],
@@ -44,19 +44,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Scr_Content.IconCreatedInCode.TabIndex"
+                  "fullyQualifiedName": "Scr_Content.Icon_CreatedInMain.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Scr_Content.IconCreatedInCode.TabIndex",
+                  "fullyQualifiedName": "Scr_Content.Icon_CreatedInMain.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
                 "module": "Scr_Content",
-                "type": "Scr_Content.IconCreatedInCode"
+                "type": "Scr_Content.Icon_CreatedInMain"
               }
             }
           ],
@@ -314,19 +314,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Scr_Content.IconCreatedInApp.AccessibleLabel"
+                  "fullyQualifiedName": "Scr_Content.IconCreatedInCode.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Scr_Content.IconCreatedInApp.AccessibleLabel",
+                  "fullyQualifiedName": "Scr_Content.IconCreatedInCode.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "Scr_Content",
-                "type": "Scr_Content.IconCreatedInApp"
+                "type": "Scr_Content.IconCreatedInCode"
               }
             }
           ],
@@ -344,19 +344,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Scr_Content.IconCreatedInApp.TabIndex"
+                  "fullyQualifiedName": "Scr_Content.IconCreatedInCode.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Scr_Content.IconCreatedInApp.TabIndex",
+                  "fullyQualifiedName": "Scr_Content.IconCreatedInCode.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
                 "module": "Scr_Content",
-                "type": "Scr_Content.IconCreatedInApp"
+                "type": "Scr_Content.IconCreatedInCode"
               }
             }
           ],
@@ -417,6 +417,66 @@
                 "member": "TabIndex",
                 "module": "Scr_Content",
                 "type": "Scr_Content.IconCreatedInApp_Dev"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Scr_Content.IconCreatedInApp.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Scr_Content.IconCreatedInApp.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "Scr_Content",
+                "type": "Scr_Content.IconCreatedInApp"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Scr_Content.IconCreatedInApp.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Scr_Content.IconCreatedInApp.TabIndex",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "TabIndex",
+                "module": "Scr_Content",
+                "type": "Scr_Content.IconCreatedInApp"
               }
             }
           ],
